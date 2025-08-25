@@ -1,5 +1,5 @@
 # Rodrigo Faure MD
-LinkedIn: linkedin.com/in/rofaba
+- **LinkedIn**: [linkedin.com/in/rofaba](https://linkedin.com/in/rofaba)
 
 ## 🩻 Radiólogo | 💻 Desarrollador de Software | 📊 Data Science Wannabe
 
