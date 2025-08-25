@@ -1,4 +1,4 @@
-# 👋 Hola, soy Rodrigo Faure
+# Rodrigo Faure MD
 
 ## 🩻 Radiólogo | 💻 Desarrollador de Software | 📊 Data Science Wannabe
 
