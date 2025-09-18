@@ -1,7 +1,7 @@
 # Rodrigo Faure MD
 **LinkedIn**: [linkedin.com/in/rofaba](https://linkedin.com/in/rofaba)
 
-## 🩻 Radiólogo | 💻 Desarrollador de Software | 📊 Data Science Wannabe
+## 🩻 Radiólogo | 💻 Desarrollador de Software | 📊 Data Science Student
 
 Soy médico radiólogo con más de una década de experiencia clínica y en docencia, actualmente reconvertido al mundo de la tecnología.  
 Combino mi background en **medicina** con habilidades en **desarrollo de software** y **ciencia de datos** para crear soluciones que unan salud y tecnología.
