@@ -1,53 +1,97 @@
-# Rodrigo Faure MD
-**LinkedIn**: [linkedin.com/in/rofaba](https://linkedin.com/in/rofaba)
+<!-- README de perfil de GitHub - Rodrigo Faure -->
 
-## 🩻 Radiólogo | 💻 Desarrollador de Software | 📊 Data Science Student
+<h1 align="center">👋 ¡Hola, soy Rodrigo Faure!</h1>
+<h3 align="center">🩻 Radiólogo ➜ 💻 Desarrollador ➜ 📊 Científico de Datos</h3>
 
-Soy médico radiólogo con más de una década de experiencia clínica y en docencia, actualmente reconvertido al mundo de la tecnología.  
-Combino mi background en **medicina** con habilidades en **desarrollo de software** y **ciencia de datos** para crear soluciones que unan salud y tecnología.
-
----
-
-## 🚀 Actualmente
-
-🎯 **Estudios**
-- **FP Desarrollo de Aplicaciones Multiplataforma** en [Cesur, Málaga Este](https://www.cesurformacion.com/)
-- **Carrera de Data Science** en [Desafío Latam](https://desafiolatam.com/)
-- Curso de especialización en **Data Science y AI** en la Universidad de Málaga (oct–dic 2025)
-
-📌 **Objetivo**: Conseguir experiencia profesional en el sector tech aplicando mis conocimientos médicos y de análisis de datos.
+<p align="center">
+  <a href="https://linkedin.com/in/rofaba" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rodrigofaure@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/rofaba?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Repos-Ver%20Proyectos-8A2BE2?style=for-the-badge" alt="Repos"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🧠 Sobre mí
 
-- **Lenguajes**: Python, Java, JavaScript, SQL, HTML5, CSS3
-- **Frameworks y librerías**: Streamlit, Pandas, Matplotlib, Seaborn, Spring Boot, React
-- **Bases de datos**: MySQL, PostgreSQL, Firebase
-- **Otros**: Git, Docker, Swagger, Figma
+Soy médico radiólogo con +10 años de experiencia, actualmente reconstruyendo mi carrera en el mundo tech.  
+Combino **salud + tecnología + datos** para construir soluciones con impacto real.
 
----
+🎯 **Objetivo 2025**: Conseguir mi primer rol profesional en tech aplicando Data Science a la salud.
 
-## 📂 Proyectos destacados
-
-### 🏍️ [MotoFit – Your Moto Recommender](https://motofit-rofaba.streamlit.app/)
-Aplicación web desarrollada en Python y Streamlit para recomendar motocicletas según altura, tipo de licencia y presupuesto.  
-Incluye **dataset propio**, limpieza de datos, EDA con visualizaciones y un prototipo de recomendador.  
-📂 [Código en GitHub](https://github.com/rofaba/motofit-public)
+🎓 **Estudiando**:
+- FP DAM en Cesur Málaga
+- Data Science en Desafío Latam
+- Especialización en DS & AI - Universidad de Málaga (2025)
 
 ---
 
-## 🌱 Próximos pasos
-- Desarrollar proyectos de **Data Science aplicados a salud y radiología**
-- Mejorar mis habilidades en **Machine Learning** y **visualización de datos**
-- Construir un portafolio interactivo inspirado en videojuegos retro.
+## 🛠️ Tecnologías & Herramientas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<div align="center">
+  
+  ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rofaba&show_icons=true&theme=radical&hide_border=true)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofaba&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎮 Logros & Retos (Achievements)
+
+✅ **“Hello World” Commit**  
+✅ **First PR Merged**  
+✅ **Documentation Hero** *(en camino)*  
+✅ **Project Creator** — [MotoFit](https://github.com/rofaba/MotoFit)  
+🚧 **Streak Master** — ¡Voy por 15 días seguidos!  
+🎯 **Hacktoberfest 2025** — ¡Preparándome!
+
+> 🏆 ¿Quieres ver mis logros en vivo? [Mira mi roadmap aquí](https://github.com/rofaba/rofaba/blob/main/ACHIEVEMENTS.md)
+
+---
+
+## 📂 Proyectos Destacados
+
+### 🏍️ [MotoFit – Your Moto Recommender](https://github.com/rofaba/MotoFit)
+> Recomendador de motos según altura, licencia y presupuesto.  
+> Python + Streamlit + EDA + Dataset propio.
+
+---
+
+## 🌱 Próximos Pasos
+
+- 🧪 Proyectos de Data Science aplicados a radiología
+- 🤖 Aprender ML con Scikit-Learn y TensorFlow
+- 🎮 Construir portafolio interactivo estilo “retro game”
+- 💼 Conseguir mi primer rol en tech antes de 2026
+
 ---
 
 ## 📫 Contacto
-- **LinkedIn**: [linkedin.com/in/rofaba](https://linkedin.com/in/rofaba)
-- **GitHub**: [github.com/rofaba](https://github.com/rofaba)
-- **Email**: rodrigofaure@gmail.com
 
----
+¿Quieres colaborar, contratar o tomar un café virtual?  
+📧 rodrigofaure@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/rofaba) | 💼 [Portafolio (próximamente)]()
 
-⭐ *Siempre aprendiendo, siempre en Beta.*
+> ⭐ Siempre aprendiendo. Siempre en Beta.
