@@ -1,7 +1,7 @@
 <!-- README de perfil de GitHub - Rodrigo Faure -->
 
 <h1 align="center">👋 ¡Hola, soy Rodrigo Faure!</h1>
-<h3 align="center">🩻 Radiólogo ➜ 💻 Desarrollador ➜ 📊 Científico de Datos</h3>
+<h3 align="center">🩻 Radiólogo ➜ 💻 Desarrollador ➜ 📊 Data Science/Engineer en progreso</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/rofaba" target="_blank">
@@ -22,7 +22,7 @@
 Soy médico radiólogo con +10 años de experiencia, actualmente reconstruyendo mi carrera en el mundo tech.  
 Combino **salud + tecnología + datos** para construir soluciones con impacto real.
 
-🎯 **Objetivo 2025**: Conseguir mi primer rol profesional en tech aplicando Data Science a la salud.
+🎯 **Objetivo 2025**: Conseguir mi primer rol profesional en tech orientado al mundo de la salud.
 
 🎓 **Estudiando**:
 - FP DAM en Cesur Málaga
