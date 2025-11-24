@@ -1,7 +1,7 @@
 <!-- README de perfil de GitHub - Rodrigo Faure -->
 
 <h1 align="center">👋 ¡Hola, soy Rodrigo Faure!</h1>
-<h3 align="center">🩻 Radiólogo ➜ 💻 Desarrollador ➜ 📊 Data Science/Engineer en progreso</h3>
+<h3 align="center">🩻 Radiólogo ➜ 💻 Desarrollador ➜ 📊 Data Analyst / Data Engineer en proyecto</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/rofaba" target="_blank">
@@ -22,12 +22,10 @@
 Soy médico radiólogo con +10 años de experiencia, actualmente reconstruyendo mi carrera en el mundo tech.  
 Combino **salud + tecnología + datos** para construir soluciones con impacto real.
 
-🎯 **Objetivo 2025**: Conseguir mi primer rol profesional en tech orientado al mundo de la salud.
-
 🎓 **Estudiando**:
 - FP DAM en Cesur Málaga
 - Data Science en Desafío Latam
-- Especialización en DS & AI - Universidad de Málaga (2025)
+- Especialización en DS & AI - Universidad de Málaga.
 
 ---
 
@@ -65,7 +63,6 @@ Combino **salud + tecnología + datos** para construir soluciones con impacto re
 ✅ **Documentation Hero** *(en camino)*  
 ✅ **Project Creator** — [MotoFit](https://github.com/rofaba/MotoFit)  
 🚧 **Streak Master** — ¡Voy por 15 días seguidos!  
-🎯 **Hacktoberfest 2025** — ¡Preparándome!
 
 > 🏆 ¿Quieres ver mis logros en vivo? [Mira mi roadmap aquí](https://github.com/rofaba/rofaba/blob/main/ACHIEVEMENTS.md)
 
@@ -83,8 +80,7 @@ Combino **salud + tecnología + datos** para construir soluciones con impacto re
 
 - 🧪 Proyectos de Data Science aplicados a radiología
 - 🤖 Aprender ML con Scikit-Learn y TensorFlow
-- 🎮 Construir portafolio interactivo estilo “retro game”
-- 💼 Conseguir mi primer rol en tech antes de 2026
+- 💼 Conseguir mi primer rol en tech en 2026
 
 ---
 
