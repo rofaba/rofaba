@@ -64,8 +64,6 @@ Combino **salud + tecnología + datos** para construir soluciones con impacto re
 ✅ **Project Creator** — [MotoFit](https://github.com/rofaba/MotoFit)  
 🚧 **Streak Master** — ¡Voy por 15 días seguidos!  
 
-> 🏆 ¿Quieres ver mis logros en vivo? [Mira mi roadmap aquí](https://github.com/rofaba/rofaba/blob/main/ACHIEVEMENTS.md)
-
 ---
 
 ## 📂 Proyectos Destacados
